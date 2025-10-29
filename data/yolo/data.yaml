@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Chicken']
+
+roboflow:
+  workspace: pollos-wugyp
+  project: chicken-ido5n
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/pollos-wugyp/chicken-ido5n/dataset/5

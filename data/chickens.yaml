@@ -1,0 +1,7 @@
+# data/chickens.yaml
+path: data  # ruta base donde están las carpetas
+train: images_yolo/train
+val: images_yolo/val
+
+names:
+  0: chicken

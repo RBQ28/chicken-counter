@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+scipy
+opencv-python
+pandas
+matplotlib
+pyqt5
+scipy
+torch
+labelme==5.2.1
+ultralytics
